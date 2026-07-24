@@ -4,4 +4,4 @@ baseurl=https://yum.fury.io/oixcloud3rd/
 enabled=1
 gpgcheck=1
 repo_gpgcheck=1
-gpgkey=https://yum.fury.io/oixcloud3rd/gpg.key https://oixcloud3rd.github.io/public/release.asc
+gpgkey=https://yum.fury.io/oixcloud3rd/gpg.key https://public.oixcloud3rd.akinokaede.com/release.asc
